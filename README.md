@@ -27,7 +27,7 @@
 
 <h2>🏗️ Modelo Lógico e Conceitual</h2>
 <p>O modelo lógico e conceitual do banco de dados representam a estrutura e os relacionamentos entre as tabelas. Adicione as imagens ou diagramas para facilitar a compreensão:</p>
-<img src="https://github.com/user-attachments/assets/f230e29a-2095-4ea8-93e0-6b1bda0d0cb0" alt="Modelo Conceitual">
+<img src="https://github.com/user-attachments/assets/19ada96c-0ec8-4103-a330-031e22a4d390" alt="Modelo Conceitual">
 <br>
 <br>
 <img src="https://github.com/user-attachments/assets/40b98e36-d165-4f50-b851-adbd615910d7" alt="Modelo Lógico">
