@@ -30,7 +30,7 @@
 <img src="https://github.com/user-attachments/assets/19ada96c-0ec8-4103-a330-031e22a4d390" alt="Modelo Conceitual">
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/40b98e36-d165-4f50-b851-adbd615910d7" alt="Modelo Lógico">
+<img src="https://github.com/user-attachments/assets/3bf60802-fd08-4b11-8d2d-893093241158" alt="Modelo Lógico">
 
     
 <h2>📄 Explicação dos Caracteres e Atributos das Tabelas</h2>
